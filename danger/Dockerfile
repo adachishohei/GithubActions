@@ -5,7 +5,7 @@ LABEL "com.github.actions.description"="Run Danger"
 LABEL "com.github.actions.icon"="alert-triangle"
 LABEL "com.github.actions.color"="yellow"
 
-LABEL "maintainer"="u-nation <Endooooooo7@gmail.com>"
+LABEL "maintainer"="adachishohei <adachishohei@team-lab.com>"
 
 RUN apt-get update -qq && apt-get install -y build-essential p7zip unzip
 
